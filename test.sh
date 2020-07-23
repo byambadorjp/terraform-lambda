@@ -1,0 +1,1 @@
+aws lambda invoke --region=us-west-2 --function-name=hello_lambda output.txt
